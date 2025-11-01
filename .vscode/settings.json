@@ -1,0 +1,12 @@
+{
+  "cSpell.enabled": true,
+  "cSpell.words": [
+    "dotenv",
+    "vectorstores",
+    "faiss",
+    "llmchain",
+    "healthllmchain",
+    "chatopenai",
+    "conversationmemory"
+  ]
+}
