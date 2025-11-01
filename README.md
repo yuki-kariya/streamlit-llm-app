@@ -1,0 +1,2 @@
+# streamlit-llm-app
+StreamlitとLangChainを使用した、サンプルのLLMアプリケーション作成用のレポジトリ
